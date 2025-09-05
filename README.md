@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with Me
 <div align="center">
-  <a href="mailto:ckrgowda8055@gmail.com">
+  <a href="mailto: ckrgowda8055@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kushal-gowda-r-aaba42268">
@@ -46,7 +46,7 @@
 
 ---
 
-### 🕹️ Fun Contribution Graph
+### 🕹️  Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushal-gowda2003/kushal-gowda2003/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushal-gowda2003/kushal-gowda2003/output/pacman-contribution-graph.svg">
