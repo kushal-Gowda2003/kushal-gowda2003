@@ -52,6 +52,8 @@
 ###
 
 ### 🟡 Pac-Man Contribution Graph
+### 🕹️ Fun Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushal-gowda2003/kushal-gowda2003/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushal-gowda2003/kushal-gowda2003/output/pacman-contribution-graph.svg">
